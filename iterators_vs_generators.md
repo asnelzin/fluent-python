@@ -1,4 +1,4 @@
-# Python :: Iterators vs Generators
+# Iterators vs Generators
 
 `yield` было добавлено в Python 2.3;
 
