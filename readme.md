@@ -6,3 +6,4 @@
 
 - [Iterators vs Generators](sections/iterators_vs_generators.md)
 - [Sequences](sections/sequences.md)
+- [Data model](sections/data_model.md)
